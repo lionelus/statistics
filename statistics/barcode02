@@ -1,0 +1,16 @@
+Read.fastq.length.count=1011180.0
+Read.fastq.length.mean=636.8872376827073
+Read.fastq.length.std=636.5862293975132
+Read.fastq.length.min=48.0
+Read.fastq.length.25%=314.0
+Read.fastq.length.50%=423.0
+Read.fastq.length.75%=655.0
+Read.fastq.length.max=44800.0
+nucleotide.T.template=179350588
+nucleotide.T.proportion=0.2784913993186078
+nucleotide.C.template=148969396
+nucleotide.C.proportion=0.23131619477984544
+nucleotide.A.template=158204196
+nucleotide.A.proportion=0.24565577628390764
+nucleotide.G.template=157483457
+nucleotide.G.proportion=0.24453662961763914
